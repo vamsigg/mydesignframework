@@ -66,10 +66,7 @@
 
 
 
-<build>
-   
-   
-    
+  <build> 
     <pluginManagement>
       <plugins>
         <plugin>
