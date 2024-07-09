@@ -1,5 +1,14 @@
-2024-07-09 13:23:02 [main] FATAL com.gvk.TestCases.standalonetestPOMmodified - ===================fatal message================
-2024-07-09 13:23:02 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ======================debug message=============
-2024-07-09 13:23:03 [main] INFO  com.gvk.TestCases.standalonetestPOMmodified - =================info message====================
-2024-07-09 13:23:03 [main] TRACE com.gvk.TestCases.standalonetestPOMmodified - =================trace message==================
-2024-07-09 13:23:03 [main] WARN  com.gvk.TestCases.standalonetestPOMmodified - ===================warn message==================
+2024-07-09 18:04:37 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ==============Launched chrome Browser==========================
+2024-07-09 18:04:41 [main] ERROR com.gvk.TestCases.standalonetestPOMmodified - ================error message==================
+2024-07-09 18:04:43 [main] FATAL com.gvk.TestCases.standalonetestPOMmodified - ===================fatal message================
+2024-07-09 18:04:43 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ======================debug message=============
+2024-07-09 18:04:43 [main] INFO  com.gvk.TestCases.standalonetestPOMmodified - =================info message====================
+2024-07-09 18:04:43 [main] TRACE com.gvk.TestCases.standalonetestPOMmodified - =================trace message==================
+2024-07-09 18:04:43 [main] WARN  com.gvk.TestCases.standalonetestPOMmodified - ===================warn message==================
+2024-07-09 18:04:45 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ==============Launched chrome Browser==========================
+2024-07-09 18:04:48 [main] ERROR com.gvk.TestCases.standalonetestPOMmodified - ================error message==================
+2024-07-09 18:04:50 [main] FATAL com.gvk.TestCases.standalonetestPOMmodified - ===================fatal message================
+2024-07-09 18:04:50 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ======================debug message=============
+2024-07-09 18:04:50 [main] INFO  com.gvk.TestCases.standalonetestPOMmodified - =================info message====================
+2024-07-09 18:04:50 [main] TRACE com.gvk.TestCases.standalonetestPOMmodified - =================trace message==================
+2024-07-09 18:04:50 [main] WARN  com.gvk.TestCases.standalonetestPOMmodified - ===================warn message==================
