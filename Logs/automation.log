@@ -1,0 +1,5 @@
+2024-07-09 13:23:02 [main] FATAL com.gvk.TestCases.standalonetestPOMmodified - ===================fatal message================
+2024-07-09 13:23:02 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ======================debug message=============
+2024-07-09 13:23:03 [main] INFO  com.gvk.TestCases.standalonetestPOMmodified - =================info message====================
+2024-07-09 13:23:03 [main] TRACE com.gvk.TestCases.standalonetestPOMmodified - =================trace message==================
+2024-07-09 13:23:03 [main] WARN  com.gvk.TestCases.standalonetestPOMmodified - ===================warn message==================

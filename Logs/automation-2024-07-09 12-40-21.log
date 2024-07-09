@@ -1,0 +1,16 @@
+2024-07-09 12:37:27 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ==============Launched chrome Browser==========================
+2024-07-09 12:37:30 [main] ERROR com.gvk.TestCases.standalonetestPOMmodified - ================error message==================
+2024-07-09 12:37:32 [main] FATAL com.gvk.TestCases.standalonetestPOMmodified - ===================fatal message================
+2024-07-09 12:37:32 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ======================debug message=============
+2024-07-09 12:37:33 [main] INFO  com.gvk.TestCases.standalonetestPOMmodified - =================info message====================
+2024-07-09 12:37:33 [main] TRACE com.gvk.TestCases.standalonetestPOMmodified - =================trace message==================
+2024-07-09 12:37:33 [main] WARN  com.gvk.TestCases.standalonetestPOMmodified - ===================warn message==================
+2024-07-09 12:37:34 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ==============Launched chrome Browser==========================
+2024-07-09 12:37:37 [main] ERROR com.gvk.TestCases.standalonetestPOMmodified - ================error message==================
+2024-07-09 12:37:39 [main] FATAL com.gvk.TestCases.standalonetestPOMmodified - ===================fatal message================
+2024-07-09 12:37:39 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ======================debug message=============
+2024-07-09 12:37:40 [main] INFO  com.gvk.TestCases.standalonetestPOMmodified - =================info message====================
+2024-07-09 12:37:40 [main] TRACE com.gvk.TestCases.standalonetestPOMmodified - =================trace message==================
+2024-07-09 12:37:40 [main] WARN  com.gvk.TestCases.standalonetestPOMmodified - ===================warn message==================
+2024-07-09 12:40:16 [main] DEBUG com.gvk.TestCases.standalonetestdataprovider - ==============Launched chrome Browser==========================
+2024-07-09 12:40:21 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels

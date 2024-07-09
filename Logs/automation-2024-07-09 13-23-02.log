@@ -1,0 +1,15 @@
+2024-07-09 13:22:36 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-09 13:22:36 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-09 13:22:36 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-07-09 13:22:36 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-09 13:22:37 [main] DEBUG com.gvk.TestCases.standalonetestdataprovider - ==============Launched chrome Browser==========================
+2024-07-09 13:22:42 [main] DEBUG com.gvk.TestCases.standalonetestdataprovider - ==============Launched chrome Browser==========================
+2024-07-09 13:22:48 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ==============Launched chrome Browser==========================
+2024-07-09 13:22:53 [main] ERROR com.gvk.TestCases.standalonetestPOMmodified - ================error message==================
+2024-07-09 13:22:55 [main] FATAL com.gvk.TestCases.standalonetestPOMmodified - ===================fatal message================
+2024-07-09 13:22:55 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ======================debug message=============
+2024-07-09 13:22:55 [main] INFO  com.gvk.TestCases.standalonetestPOMmodified - =================info message====================
+2024-07-09 13:22:55 [main] TRACE com.gvk.TestCases.standalonetestPOMmodified - =================trace message==================
+2024-07-09 13:22:55 [main] WARN  com.gvk.TestCases.standalonetestPOMmodified - ===================warn message==================
+2024-07-09 13:22:57 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ==============Launched chrome Browser==========================
+2024-07-09 13:23:00 [main] ERROR com.gvk.TestCases.standalonetestPOMmodified - ================error message==================

@@ -1,0 +1,15 @@
+2024-07-09 12:40:38 [main] WARN  com.gvk.TestCases.standalonetestPOMmodified - ===================warn message==================
+2024-07-09 12:40:41 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ==============Launched chrome Browser==========================
+2024-07-09 12:40:45 [main] ERROR com.gvk.TestCases.standalonetestPOMmodified - ================error message==================
+2024-07-09 12:40:47 [main] FATAL com.gvk.TestCases.standalonetestPOMmodified - ===================fatal message================
+2024-07-09 12:40:47 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ======================debug message=============
+2024-07-09 12:40:48 [main] INFO  com.gvk.TestCases.standalonetestPOMmodified - =================info message====================
+2024-07-09 12:40:48 [main] TRACE com.gvk.TestCases.standalonetestPOMmodified - =================trace message==================
+2024-07-09 12:40:48 [main] WARN  com.gvk.TestCases.standalonetestPOMmodified - ===================warn message==================
+2024-07-09 12:41:47 [main] DEBUG com.gvk.TestCases.standalonetestdataprovider - ==============Launched chrome Browser==========================
+2024-07-09 12:41:54 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-09 12:41:54 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-09 12:41:54 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-07-09 12:41:54 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-07-09 12:41:54 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-07-09 12:41:54 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG

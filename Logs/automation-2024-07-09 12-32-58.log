@@ -1,0 +1,14 @@
+2024-07-09 12:32:42 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-09 12:32:42 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-09 12:32:42 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-09 12:32:42 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-07-09 12:32:42 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-09 12:32:42 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-09 12:32:42 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-09 12:32:42 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-07-09 12:32:42 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-09 12:32:43 [main] DEBUG com.gvk.TestCases.standalonetestdataprovider - ==============Launched chrome Browser==========================
+2024-07-09 12:32:48 [main] DEBUG com.gvk.TestCases.standalonetestdataprovider - ==============Launched chrome Browser==========================
+2024-07-09 12:32:53 [main] DEBUG com.gvk.TestCases.standalonetestPOMmodified - ==============Launched chrome Browser==========================
+2024-07-09 12:32:56 [main] ERROR com.gvk.TestCases.standalonetestPOMmodified - ================error message==================
+2024-07-09 12:32:58 [main] FATAL com.gvk.TestCases.standalonetestPOMmodified - ===================fatal message================
